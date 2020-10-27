@@ -1,0 +1,29 @@
+{
+  "name": "tableau-react-toolkit",
+  "version": "0.1.0",
+  "description": "A set of React tools and components to assist with building embedded Tableau visualizations.",
+  "main": "index.js",
+  "repository": "git@github.com:jhegele/tableau-react-toolkit.git",
+  "author": "John Hegele <<jhegele@noreply.users.github.com>>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "@babel/preset-typescript": "^7.12.1",
+    "@emotion/babel-preset-css-prop": "^10.0.27",
+    "@types/react": "^16.9.53",
+    "@types/react-dom": "^16.9.8",
+    "babel-loader": "^8.1.0",
+    "typescript": "^4.0.5",
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
